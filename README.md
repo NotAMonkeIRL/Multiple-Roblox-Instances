@@ -48,6 +48,6 @@ You need to open the program before you open Roblox. You need to keep the consol
 [(Back to top)](#table-of-contents)
 
 You can redistribute this product freely. <br>
-**Me, NotAMonkeIRL accept no liability for damages on your computer, while this product is running.**
+**Me, NotAMonkeIRL accept no liability for damages on your computer or violations against the Roblox Terms of Service, while this product is running.**
 >Made with love by deldown
 
