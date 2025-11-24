@@ -1,6 +1,7 @@
 
 # Multiple Roblox Instances
 
+https://img.shields.io/static/v1?label=del&message=down&labelColor=00008B&color=87CEFA
 [![GitHub release](https://img.shields.io/github/v/release/NotAMonkeIRL/Multiple-Roblox-Instances)](https://img.shields.io/github/v/release/NotAMonkeIRL/Multiple-Roblox-Instances)
 [![GitHub last commit](https://img.shields.io/github/last-commit/NotAMonkeIRL/Multiple-Roblox-Instances)](https://img.shields.io/github/last-commit/NotAMonkeIRL/Multiple-Roblox-Instances)
 [![GitHub issues](https://img.shields.io/github/issues-raw/NotAMonkeIRL/Multiple-Roblox-Instances)](https://img.shields.io/github/issues-raw/NotAMonkeIRL/Multiple-Roblox-Instances)
