@@ -18,10 +18,8 @@ Do whatever you want to do with it lol
 
 # Table of Contents
 
-This is a table of contents for your project. It helps the reader navigate through the README quickly.
 - [Multiple Roblox Instances](#multiple-roblox-instances)
 - [Quick Start Demo](#quick-start-demo)
-- [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
