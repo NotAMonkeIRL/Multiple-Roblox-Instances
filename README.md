@@ -9,7 +9,7 @@
 
 > **Important**: This Product is not affiliated with Roblox and is not getting sponsored by Roblox. I accept no liability for damages on your computer, while this product is running.
 
-This Project is made out of fun and to waste some time. There may be bugs and you can report them at the issues.
+This Project is made out of fun and to waste some time. There may be bugs and you can open an issue to report them and I'll probably fix them.
 
 # Quick Start Demo
 
