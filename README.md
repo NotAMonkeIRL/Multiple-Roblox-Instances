@@ -3,7 +3,7 @@
 
 ![deldown logo](https://img.shields.io/static/v1?label=del&message=down&labelColor=00008B&color=87CEFA)
 [![GitHub release](https://img.shields.io/github/v/release/NotAMonkeIRL/Multiple-Roblox-Instances)](https://img.shields.io/github/v/release/NotAMonkeIRL/Multiple-Roblox-Instances)
-
+[![GitHub last commit](https://img.shields.io/github/last-commit/NotAMonkeIRL/Multiple-Roblox-Instances)](https://img.shields.io/github/last-commit/NotAMonkeIRL/Multiple-Roblox-Instances)
 [![GitHub issues](https://img.shields.io/github/issues-raw/NotAMonkeIRL/Multiple-Roblox-Instances)](https://img.shields.io/github/issues-raw/NotAMonkeIRL/Multiple-Roblox-Instances)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/NotAMonkeIRL/Multiple-Roblox-Instances)](https://img.shields.io/github/issues-pr/NotAMonkeIRL/Multiple-Roblox-Instances)
 ![Gewerbe](https://img.shields.io/static/v1?label=Gewerbe%20=&message=Kacke&labelColor=00008B&color=87CEFA)
