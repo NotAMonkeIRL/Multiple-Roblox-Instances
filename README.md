@@ -6,6 +6,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/NotAMonkeIRL/Multiple-Roblox-Instances)](https://img.shields.io/github/last-commit/NotAMonkeIRL/Multiple-Roblox-Instances)
 [![GitHub issues](https://img.shields.io/github/issues-raw/NotAMonkeIRL/Multiple-Roblox-Instances)](https://img.shields.io/github/issues-raw/NotAMonkeIRL/Multiple-Roblox-Instances)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/NotAMonkeIRL/Multiple-Roblox-Instances)](https://img.shields.io/github/issues-pr/NotAMonkeIRL/Multiple-Roblox-Instances)
+![Gewerbe](https://img.shields.io/static/v1?label=Gewerbe%20=&message=Kacke&labelColor=00008B&color=87CEFA)
 
 > **Important**: This program is not affiliated with Roblox and is not getting sponsored by Roblox. I accept no liability for damages on your computer, while this program is running.
 
